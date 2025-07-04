@@ -1,3 +1,12 @@
+# About application
+A react based real time weather app uses openweather api for fetching real time weather updates based on city.
+
+# Use Application
+Run npm run dev on localhost after folking.
+Enter city to get city weather.
+
+
+
 # React + Vite
 
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
