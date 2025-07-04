@@ -2,7 +2,8 @@
 A react based real time weather app uses openweather api for fetching real time weather updates based on city.
 
 # Use Application
-Run npm run dev on localhost after folking.
+Get an API key from open weather api and add it to the project after folking.
+Run npm run dev on localhost.
 Enter city to get city weather.
 
 
